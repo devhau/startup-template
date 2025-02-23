@@ -17,7 +17,9 @@ Startup Template comes with all essential sections and elements a complete websi
 
 **Website**: https://sokeio.com/
 
-**Email**: haustartup@gmail.com
+**My Website**: https://hau.xyz/
+
+**Email**: nguyenvanhaudev@gmail.com
 
 **Discord**: https://discord.gg/5XePqYxyjm
 
