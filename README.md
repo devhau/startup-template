@@ -17,7 +17,7 @@ Startup Template comes with all essential sections and elements a complete websi
 
 **Website**: https://sokeio.com/
 
-**Lorem Ipsum AI Generator**: https://lipsumai.com/lorem-ipsum-ai-generator
+**Lorem Ipsum AI Generator**: https://lipsumai.com/ai-generator
 
 **My Website**: https://hau.xyz/
 
