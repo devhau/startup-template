@@ -1,4 +1,4 @@
-# Startup Template - Free HTML Template for Startup, Apps and SaaS
+![image](https://github.com/user-attachments/assets/d2ea191b-ce7a-4a17-84b7-e466aaa80235)# Startup Template - Free HTML Template for Startup, Apps and SaaS
 
 Startup Template is an open-source and free bootstrap 5 based HTML template created by the UIdeck team. It's a part of our new initiative to give back to the community and create some impactful open source projects.
 
@@ -23,7 +23,8 @@ Startup Template comes with all essential sections and elements a complete websi
 
 **Email**: nguyenvanhaudev@gmail.com
 
-**Discord**: https://discord.gg/5XePqYxyjm
+**Discord**: https://discord.gg/CXpVpvBK 
+
 
 **Facebook**: https://www.facebook.com/groups/sokeio
 
